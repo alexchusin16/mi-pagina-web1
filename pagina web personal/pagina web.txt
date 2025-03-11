@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    
+    <title>Hobbies de un Joven de 16 Años</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f2f2f6;
+            margin: 0;
+            padding: 0;
+        }
+        table {
+            width: 80%;
+            margin: 60px auto;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+            text-align: center;
+            padding: 15px;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        td a {
+            text-decoration: none;
+            color: #666;
+            font-weight: bold;
+        }
+        td a:hover {
+            color: #4CAF50;
+        }
+    </style>
+</head>
+<body>
+    <h1>Pagina Web personal </h1>
+    <h2>Sean Bienbenidos </h2>
+    <table>
+        <tr>
+            <th>Hobby</th>
+            <th>Descripción</th>
+        </tr>
+        <tr>
+            <td><a href="futbol.html">Fútbol</a></td>
+            <td>Disfruto jugando al fútbol con mis amigos.</td>
+        </tr>
+        <tr>
+            <td><a href="ejercicio.html">Hacer Ejercicio</a></td>
+            <td>Me gusta mantenerme activo haciendo ejercicio.</td>
+        </tr>
+        <tr>
+            <td><a href="correr.html">Correr</a></td>
+            <td>Correr me ayuda a liberar estrés y mantenerme en forma.</td>
+        </tr>
+        <tr>
+            <td><a href="nadar.html">Nadar</a></td>
+            <td>Nadar es una actividad relajante y saludable.</td>
+        </tr>
+        <tr>
+            <td><a href="basquet.html">Jugar Baloncesto</a></td>
+            <td>El baloncesto es uno de mis deportes favoritos.</td>
+        </tr>
+        <tr>
+            <td><a href="musica.html">Escuchar Música</a></td>
+            <td>La música me motiva y me ayuda a concentrarme.</td>
+        </tr>
+    </table>
+</body>
+</html>
